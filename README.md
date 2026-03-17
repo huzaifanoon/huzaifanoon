@@ -59,7 +59,7 @@
 - **C.E.O & Founder** @ *Creative Dynamic Studio (CDS)* <sub>[2024 - Present]</sub>
   - *Founded one of the largest student-led communities in Islamabad. Led cross-functional teams (tech, marketing, design), handled sponsorships, and gathered thousands of attendees for mega-events like Freshers Fest, FusionX, and Ignite Eve 25'.*
 - **Freelance Web Developer** <sub>[2023 - Present]</sub>
-  - *Developed and customized WordPress and Shopify websites for small businesses, seamlessly implementing themes, plugins, payments, and SEO optimization.*
+  - *Developed and customized websites for small businesses, seamlessly implementing themes, plugins, payments, and SEO optimization.*
 - **AI Intern (Software Productivity Strategist)** @ *SPS* <sub>[June 2025 - Sep 2025]</sub>
   - *Assisted in automating billing system workflows resulting in reduced manual processing and elevated productivity testing.*
 
@@ -69,17 +69,18 @@
 
 | 🏆 Project Name | 📜 Description | ⚙️ Technologies |
 | :--- | :--- | :--- |
-| **Event Platform (Full Stack)** | Dynamic event listings implementing full authentication and RESTful APIs under clean architecture. | `React` `FastAPI` `PostgreSQL` |
-| **Event Platform (DB Oriented)** | Advanced query optimized backend structure for managing and scaling robust event data capabilities. | `Node.js` `Express` `MongoDB` |
-| **Auto-Attendance System** | Intelligent facial-recognition attendance solution drastically reducing manual input errors. | `Python/Flask` `OpenCV` `Android` |
-| **Advanced Vulnerability Scanner** | Deep-scanning security testing application built to detect SQLi, XSS, and missing security headers. | `Python` `Web Security` |
-| **E-Learning LMS Solution** | End-to-end learning platform with payments, automated enrollments, and complete course management. | `WordPress` `E-Commerce` |
+| **[Event Platform (Full Stack)](https://github.com/huzaifanoon/CDS-EventManagement-FullStackWebApp)** | Dynamic event listings implementing full authentication and RESTful APIs under clean architecture. | `React` `FastAPI` `PostgreSQL` |
+| **[Event Platform (DB Oriented)](https://github.com/huzaifanoon/Advanced-MongoDB-Management-System-CDSISB)** | Advanced query optimized backend structure for managing and scaling robust event data capabilities. | `Node.js` `Express` `MongoDB` |
+| **[Auto-Attendance System](https://github.com/huzaifanoon/Facial-Recognition-Attendance-System-MachineLearningProject)** | Intelligent facial-recognition attendance solution drastically reducing manual input errors. | `Python/Flask` `OpenCV` `Android` |
+| **[Advanced Vulnerability Scanner](https://github.com/huzaifanoon/Argus-VulnerabilityScanner-RealTime)** | Deep-scanning security testing application built to detect SQLi, XSS, and missing security headers. | `Python` `Web Security` |
+| **[CampusConnect – Full Stack Flutter App](https://github.com/huzaifanoon/Campus-Connect-FullStack-Flutter-MobileApp)** | Smart University Event Management app to digitize campus event discovery, registration, and admin analytics. | `Flutter` `Dart` `Provider` |
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
+  <img src="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme.md#options" style="display:none" />
   <img src="https://github-readme-stats.vercel.app/api?username=huzaifanoon&show_icons=true&theme=radical&hide_border=true" alt="Huzaifa's Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifanoon&theme=radical&hide_border=true" alt="Huzaifa's Streak" width="48%" />
 </p>
