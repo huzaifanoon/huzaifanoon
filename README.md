@@ -17,11 +17,14 @@
   <a href="https://github.com/huzaifanoon" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://huzaifa-portfolio-nine.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
+  </a>
 </p>
 
 <hr>
 
-### 👨‍💻 About Me
+### 👨💻 About Me
 
 * 🚀 **Full Stack Developer** and Entrepreneur passionate about transforming ideas into functional software.
 * 🌟 **C.E.O & Founder** at **Creative Dynamic Studio (CDS)**, where I manage tech and marketing for mega-events in Islamabad.
