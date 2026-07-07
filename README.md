@@ -2,11 +2,10 @@
 
 <h1>Muhammad Huzaifa</h1>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Mobile+App+Developer+(Flutter+%7C+Kotlin);Full+Stack+Web+Engineer;AI+%26+LLM+Integration+Enthusiast;Founder+%40+Creative+Dynamic+Studio" alt="Typing SVG" />
-</a>
+<h3>Mobile App Developer (Flutter | Kotlin)</h3>
+<h3>Full Stack Web Engineer</h3>
 
-<br><br>
+<br>
 
 <a href="mailto:huzaifanoon21@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -59,32 +58,39 @@ Junior Android Developer, Appetiser Apps
 ### Technical Space
 
 **Mobile Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase,sqlite" alt="Mobile Stack" />
-</p>
 
-`Flutter` `Dart` `Kotlin` `Jetpack Compose` `Android SDK` `Riverpod` `MVVM / Provider` `SQLite / Local DB`
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **Web & Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,express,laravel,tailwind,vite" alt="Web Stack" />
-</p>
 
-`React 18 / Vite` `Node.js` `FastAPI` `Express.js` `Laravel` `Tailwind CSS` `RESTful APIs` `JWT Auth` `Safepay API`
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **AI, Cloud & Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,opencv,python" alt="AI Cloud DB Stack" />
-</p>
 
-`Groq / Gemini LLMs` `Supabase` `Firebase (FCM)` `PostgreSQL` `MongoDB` `Hive NoSQL` `OpenCV / YOLOv8` `Tesseract.js / OCR`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase_FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 **Core CS & Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,git,javascript" alt="Core CS Stack" />
-</p>
 
-`Python` `Java` `C++` `JavaScript` `OOP / DSA` `Git & GitHub` `x86 Assembly` `InfoSec / Web Security`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 <hr>
 
@@ -98,14 +104,6 @@ Junior Android Developer, Appetiser Apps
 <tr><td>AI Intern, Software Productivity Strategist</td><td>SPS</td><td>Jun 2025 – Sep 2025</td></tr>
 <tr><td>Web Developer</td><td>Nisum</td><td>Jan 2024 – Jan 2026</td></tr>
 </table>
-
-<br>
-
-**DevHawks** — Designed, developed, and tested features for production mobile apps; collaborated cross-functionally on clean architecture, Riverpod state management, and performance optimization.
-**SafeX Solutions** — Built responsive real-world web applications alongside senior engineers on scalable frontend and backend features.
-**FlyRank AI** — Focused on LLM integration, backend infrastructure, and scalable API pipelines for intelligent applications.
-**SPS** — Automated billing system workflows with AI tooling, improving pipeline efficiency and reducing manual overhead.
-**Nisum** — Developed and customized responsive websites for small businesses, including plugin integrations and SEO.
 
 <hr>
 
@@ -138,18 +136,6 @@ Junior Android Developer, Appetiser Apps
 | **[SmartPoster Scanner](https://github.com/huzaifanoon/SmartPosterScanner-ComputerVision)** | OCR tool extracting event details from posters using mobile CV models. | `JavaScript` `Tesseract.js` |
 | **[Healthy Habits Pro](https://github.com/huzaifanoon/Healthy-Habits-Flutter-App)** | Wellness tracker for habit streaks, hydration goals, and offline analytics. | `Flutter` `Dart` |
 | **[Argus Vulnerability Scanner](https://github.com/huzaifanoon/Argus-VulnerabilityScanner-RealTime)** | Security scanner detecting SQLi, XSS, and missing headers with CVSS 3.1 scoring. | `Python` `Web Security` |
-
-<hr>
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huzaifanoon&show_icons=true&theme=radical&hide_border=true" alt="Huzaifa's Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifanoon&theme=radical&hide_border=true" alt="Huzaifa's Streak" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifanoon&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
 <hr>
 
