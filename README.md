@@ -2,7 +2,7 @@
 
 <h1>Muhammad Huzaifa</h1>
 
-<h3>Mobile App Developer (Cross Platform)</h3>
+<h3>Mobile App Developer (Cross Platform | Native)</h3>
 <h3>Full Stack Web Engineer</h3>
 
 <br>
