@@ -13,9 +13,6 @@
 <a href="https://www.linkedin.com/in/muhammad-huzaifa-811772275/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://github.com/huzaifanoon" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
 <a href="https://huzaifa-portfolio-nine.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
