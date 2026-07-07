@@ -2,7 +2,7 @@
 
 <h1>Muhammad Huzaifa</h1>
 
-<h3>Mobile App Developer (Flutter | Kotlin)</h3>
+<h3>Mobile App Developer (Cross Platform)</h3>
 <h3>Full Stack Web Engineer</h3>
 
 <br>
@@ -53,7 +53,7 @@ Junior Android Developer, Appetiser Apps
 - Pursuing a **BS in Computer Science** at COMSATS University Islamabad (2023 – 2027).
 - Open to mobile engineering and full-stack opportunities — I like turning ambiguous product ideas into shipped, working software.
 
-<br>
+<hr>
 
 ### Technical Space
 
